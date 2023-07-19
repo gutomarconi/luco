@@ -1,0 +1,25 @@
+<svg viewBox="0 0 1134.64 1013.23">
+    <defs>
+      <linearGradient id="linear-gradient" x1="30.27" y1="54.1" x2="373.86" y2="978.37" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stopColor="#1fc1f0" />
+        <stop offset=".89" stopColor="#a034f9" />
+      </linearGradient>
+      <linearGradient id="linear-gradient-2" x1="249.13" y1="910.67" x2="1059.71" y2="607.05" gradientUnits="userSpaceOnUse">
+        <stop offset=".1" stopColor="#1fc1f0" />
+        <stop offset=".77" stopColor="#a034f9" />
+      </linearGradient>
+      <linearGradient id="linear-gradient-3" x1="76.58" y1="145.75" x2="1060.47" y2="600.11" gradientTransform="translate(665.04 -299.17) rotate(65)" gradientUnits="userSpaceOnUse">
+        <stop offset=".12" stopColor="#1fc1f0" />
+        <stop offset=".87" stopColor="#a034f9" />
+      </linearGradient>
+    </defs>
+    <g>
+      <g>
+        <g>
+          <polygon points="396.99 737.66 268.49 1013.23 0 275.57 128.5 0 396.99 737.66"/>
+          <polygon points="1006.14 744.74 268.49 1013.23 396.99 737.66 1134.64 469.17 1006.14 744.74"/>
+          <rect x="415.29" y="-182.71" width="304.06" height="1110.16" transform="translate(-9.92 729.17) rotate(-65)"/>
+        </g>
+      </g>
+    </g>
+  </svg>
