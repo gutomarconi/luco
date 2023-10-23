@@ -1,4 +1,4 @@
-Highcharts.chart('container', {
+{
   chart: {
     type: 'pie',
     backgroundColor: '#333333',
@@ -36,4 +36,4 @@ Highcharts.chart('container', {
       ['Ford', 7.2]
     ]
   }]
-});
+}
